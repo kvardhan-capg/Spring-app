@@ -8,3 +8,5 @@ added funcion1 in master branch. fixed bug 1 function1 from master branch.
 
 developing f2 in branch1. f2 got developed and ready for production. bug1 for f2 got fixed in branch1.
 
+developing f3 in branch1.
+
