@@ -8,8 +8,7 @@ added funcion1 in master branch. fixed bug 1 function1 from master branch.
 
 developing f2 in branch1. f2 got developed and ready for production. bug1 for f2 got fixed in branch1. bug2 fixed for f2 in master.
 
-developing f3 in branch1. enhanced f3 in dev
-
+developing f3 in branch1. enhanced f3 in dev. b1 for f3 fixed in master.
 
 stashed new f4
 f4 req clarification pending.
