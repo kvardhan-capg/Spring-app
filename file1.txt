@@ -6,3 +6,5 @@ new feature added in branch 1.
 
 added funcion1 in master branch.
 
+developing f2 in branch1.
+
